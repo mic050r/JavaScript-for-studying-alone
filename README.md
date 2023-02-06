@@ -1,7 +1,4 @@
-# JavaScript-for-studying-alone
 ## 혼공단 9기
-
-**JS 미션**
 
 1주차 미션 https://rei050r.tistory.com/51
 
