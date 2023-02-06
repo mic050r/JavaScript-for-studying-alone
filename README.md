@@ -1,4 +1,6 @@
-#혼공단 9기
+#JavaScript-for-studying-alone
+
+##혼공단 9기
 
 **JS 미션**
 
