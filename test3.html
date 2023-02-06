@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>태어난 연도를 입력받아 띠 출력하기</title>
+    <script>
+        const year = Number(prompt('태어난 해를 입력해주세요', ' '))
+        const result = '원숭이, 닭, 개, 돼지, 쥐, 소, 호랑이, 토끼, 용, 뱀, 말, 양'.split(',')
+
+        alert(`${year}년에 태어났다면 ${result[year%12]} 띠 입니다`)
+    </script>
+    <!--<script>
+        const year = Number(prompt('태어난 해를 입력해주세요', ' '))
+        const e = year % 12 //입력한 해를 12로 나눈 나머지 값 e
+        
+        let result
+        if (e === 0) {result = '원숭이'}
+        else if (e === 1) {result = '닭'}
+        else if (e === 2) {result = '개'}
+        else if (e === 3) {result = '돼지'}
+        else if (e === 4) {result = '쥐'}
+        else if (e === 5) {result = '소'}
+        else if (e === 6) {result = '호랑이'}
+        else if (e === 7) {result = '토끼'}
+        else if (e === 8) {result = '용'}
+        else if (e === 9) {result = '뱀'}
+        else if (e === 10) {result = '말'}
+        else if (e === 11) {result = '양'}
+        alert(`${year}년에 태어났다면 ${result} 띠 입니다`)
+    </script>-->
+</head>
+<body>
+    
+</body>
+</html>

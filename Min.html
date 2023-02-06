@@ -1,0 +1,14 @@
+<script>
+    const min = function(배열){
+        let output = 배열[0]
+
+        for(const value of 배열){
+            if(output > value){
+                output = value
+            }
+        }
+        return output
+    }
+    const 배열 = [32,55,22,63,67,19]
+    console.log(`최솟값 : ${min(배열)}`)
+</script>
