@@ -2,9 +2,9 @@
 
 **혼자 공부하는 자바스크립트/미션**
 
-1주차 미션(https://rei050r.tistory.com/51)
-2주차 미션(https://rei050r.tistory.com/54)
-3주차 미션(https://rei050r.tistory.com/60)
-4주차 미션(https://rei050r.tistory.com/76)
-5주차 미션(https://rei050r.tistory.com/77)
-6주차 미션(https://rei050r.tistory.com/82)
+- [1주차 미션](https://rei050r.tistory.com/51)
+- [2주차 미션](https://rei050r.tistory.com/54)
+- [3주차 미션](https://rei050r.tistory.com/60)
+- [4주차 미션](https://rei050r.tistory.com/76)
+- [5주차 미션](https://rei050r.tistory.com/77)
+- [6주차 미션](https://rei050r.tistory.com/82)
